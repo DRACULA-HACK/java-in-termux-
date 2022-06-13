@@ -42,4 +42,9 @@ chmod +x java.sh
 #
 
 #
+Thank you
 
+#
+By master hack
+#
+#
