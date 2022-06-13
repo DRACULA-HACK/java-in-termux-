@@ -33,4 +33,13 @@ cd java-in-termux-
 chmod +x java.sh
 
 
+#
+
+
+./java.sh
+
+
+#
+
+#
 
