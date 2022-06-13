@@ -10,6 +10,13 @@ JavaScript, often abbreviated JS, is a programming language that is one of the c
 #
 
 # Installation in termux
+#
+
+pkg update
+pkg upgrade
+
+#
+
 
 pkg install git
 
